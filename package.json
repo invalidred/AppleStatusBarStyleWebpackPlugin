@@ -1,6 +1,6 @@
 {
-  "name": "apple-status-bar-style-webpack-plugin",
-  "version": "1.0.0",
+  "name": "apple-status-bar-webpack-plugin",
+  "version": "1.0.2",
   "description": "Place this after FaviconsWebpackPlugin to override apple status bar",
   "main": "index.js",
   "scripts": {
