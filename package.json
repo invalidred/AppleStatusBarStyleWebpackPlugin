@@ -1,0 +1,24 @@
+{
+  "name": "apple-status-bar-style-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Place this after FaviconsWebpackPlugin to override apple status bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invalidred/AppleStatusBarStyleWebpackPlugin.git"
+  },
+  "keywords": [
+    "FaviconWebpackPlugin",
+    "HtmlWebpackPlugin",
+    "AppleStatusBarStyle"
+  ],
+  "author": "Abdul Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invalidred/AppleStatusBarStyleWebpackPlugin/issues"
+  },
+  "homepage": "https://github.com/invalidred/AppleStatusBarStyleWebpackPlugin#readme"
+}
