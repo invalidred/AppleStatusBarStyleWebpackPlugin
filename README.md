@@ -24,7 +24,7 @@ This plugin **should** be placed after **FaviconsWebpackPlugin** for it it work.
     ]
 ```
 
-It's a super simple plugin, all you need to do is spcify the header color in the constructor
+It's a super simple plugin, all you need to do is specify the header color in the constructor
 
 ```javascript
   new AppleStatusBarPlugin('black')
